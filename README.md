@@ -6,3 +6,4 @@ KTU ID: MDL24EVLSI021
 
 Files included: 
 1) Basic Linux Commands .pdf
+2) detail_date_time.sh
